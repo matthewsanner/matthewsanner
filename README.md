@@ -8,6 +8,6 @@
 
 - 📫Reach me at gravityskunk@gmail.com.
 
-- 🌐 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5)
+- 🌐 ![HTML5](https://img.shields.io/badge/-HTML5-333333?logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?logo=CSS) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?logo=javascript)
 
 Thanks for visiting! 😎
