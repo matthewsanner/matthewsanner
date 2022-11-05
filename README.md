@@ -14,3 +14,5 @@
 - 📫Reach me at gravityskunk@gmail.com.
 
 Thanks for visiting! 😎
+
+![View Counter](https://komarev.com/ghpvc/?username=gravityskunk&color=brightgreen)
