@@ -6,7 +6,7 @@
 
 - 💡Check out my complete set of Javascript solutions for the Implementation set of [HackerRank algorithms](https://www.hackerrank.com/domains/algorithms) in [this repo](https://github.com/gravityskunk/hackerrank-js-solutions).
 
-- 📝 My biggest project yet- a flashcard web app with full CRUD, authentication, authorization, sessions, and security using MongoDB and Express.js. Try out [the app](https://flashy-vgut.onrender.com/) and check out [the code](https://github.com/gravityskunk/flashcard-app).
+- 📝 My biggest project yet- a flashcard Node.js web app with full CRUD, authentication, authorization, sessions, and security using MongoDB and Express.js. Try out [the app](https://flashy-vgut.onrender.com/) and check out [the code](https://github.com/gravityskunk/flashcard-app).
 
 - 🌐 ![HTML5](https://img.shields.io/badge/-HTML5-333333?logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?logo=javascript) ![Node.JS](https://img.shields.io/badge/-Node.js-333333?logo=node.js) ![React](https://img.shields.io/badge/-React-333333?logo=react)
 - 🗃️ ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?logo=mongodb) ![Express](https://img.shields.io/badge/-Express-333333?logo=express)
