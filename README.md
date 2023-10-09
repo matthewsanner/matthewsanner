@@ -4,7 +4,7 @@
 
 - 🐰I help run the Code Bunnies educational programming network. We create educational content based on our experience learning programming and we host events to share our code and support our peers. Find us on our [LinkedIn](https://www.linkedin.com/groups/14100375/) and our [Discord](https://discord.gg/SsefNmP5YP)!
 
-- 💡Check out my complete set of Javascript solutions for the Implementation set of [HackerRank algorithms](https://www.hackerrank.com/domains/algorithms) in [this repo](https://github.com/matthewsanner/hackerrank-js-solutions).
+- 💡Check out [my complete set](https://github.com/matthewsanner/hackerrank-js-solutions) of Javascript solutions for the Implementation set of [HackerRank algorithms](https://www.hackerrank.com/domains/algorithms).
 
 - 📝 Flashy- a flashcard Node.js web app with full CRUD, authentication, authorization, sessions, and security using MongoDB and Express.js. Try out [the app](https://flashy-vgut.onrender.com/) and check out [the code](https://github.com/matthewsanner/flashcard-app).
 
