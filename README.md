@@ -2,6 +2,8 @@
 
 - 🌱I completed the Colt Steele Web Developer Bootcamp and countless hours of self-study. Connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-sanner2/)!
 
+- 🌴I am a freelance web developer! Reach out if you need help creating a website for your business, or streamlining your workflow. Check [my website](https://matthewsanner.com) for more information and my portfolio.
+
 - 🐰I help run the Code Bunnies educational programming network. We create educational content based on our experience learning programming and we host events to share our code and support our peers. Find us on our [LinkedIn](https://www.linkedin.com/groups/14100375/) and our [Discord](https://discord.gg/SsefNmP5YP)!
 
 - 💡Check out [my complete set](https://github.com/matthewsanner/hackerrank-js-solutions) of Javascript solutions for the Implementation set of [HackerRank algorithms](https://www.hackerrank.com/domains/algorithms).
