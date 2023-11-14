@@ -1,6 +1,6 @@
 👋 Hi, I’m Matthew Sanner!
 
-- 🌴I am a bootcamped and self-taught freelance web developer! Reach out if you need help creating a website for your business, or streamlining your workflow. Check [my website](https://matthewsanner.com) for more information and my portfolio. Also connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-sanner2/)!
+- 🌴I am a bootcamped and self-taught freelance web developer! Reach out if you need help creating a website for your business, or streamlining your workflow. Check [my website](https://matthewsanner.com) for more information and my portfolio. I'm also seeking employment so please connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-sanner2/)!
 
 - 🐰I help run the Code Bunnies peer programming network. We host events to share our code and support our peers on our coding journeys. Find us on our [LinkedIn](https://www.linkedin.com/groups/14100375/) and our [Discord](https://discord.gg/SsefNmP5YP)!
 
