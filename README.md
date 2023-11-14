@@ -2,15 +2,13 @@
 
 - 🌱I completed the Colt Steele Web Developer Bootcamp and countless hours of self-study. Connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-sanner2/)!
 
-- 🌴I am a freelance web developer! Reach out if you need help creating a website for your business, or streamlining your workflow. Check [my website](https://matthewsanner.com) for more information and my portfolio.
+- 🌴I am a bootcamped and self-taught freelance web developer! Reach out if you need help creating a website for your business, or streamlining your workflow. Check [my website](https://matthewsanner.com) for more information and my portfolio. Also connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-sanner2/)!
 
-- 🐰I help run the Code Bunnies educational programming network. We create educational content based on our experience learning programming and we host events to share our code and support our peers. Find us on our [LinkedIn](https://www.linkedin.com/groups/14100375/) and our [Discord](https://discord.gg/SsefNmP5YP)!
-
-- 💡Check out [my complete set](https://github.com/matthewsanner/hackerrank-js-solutions) of Javascript solutions for the Implementation set of [HackerRank algorithms](https://www.hackerrank.com/domains/algorithms).
+- 🐰I help run the Code Bunnies peer programming network. We host events to share our code and support our peers on our coding journeys. Find us on our [LinkedIn](https://www.linkedin.com/groups/14100375/) and our [Discord](https://discord.gg/SsefNmP5YP)!
 
 - 📝 Flashy- a flashcard Node.js web app with full CRUD, authentication, authorization, sessions, and security using MongoDB and Express.js. Try out [the app](https://flashy-vgut.onrender.com/) and check out [the code](https://github.com/matthewsanner/flashcard-app).
 
-- 📖 I'm also currently working on a straightforward and user friendly content management system using React and Express called Bones CMS. Check out the [backend code](https://github.com/matthewsanner/bones-cms-backend) and the [frontend code](https://github.com/matthewsanner/bones-cms-react).
+- 📖 I'm also currently working on a straightforward and user friendly content management system using React and Express called Bones CMS. It's still in development but you can try out the [beta version](https://bones-cms-react.onrender.com/) and check out the [backend code](https://github.com/matthewsanner/bones-cms-backend) and the [frontend code](https://github.com/matthewsanner/bones-cms-react).
 
 - 🤓 P.S. I also built a slick [Pokedex](https://pokemon-team-builder.onrender.com/) for you to build a team! 
 
