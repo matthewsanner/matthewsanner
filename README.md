@@ -17,6 +17,6 @@
 
 - 📫Reach me at matthewsannerdev@gmail.com.
 
-Thanks for visiting! 😎
+- Thanks for visiting! 😎
 
 [![An image of @matthewsanner's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/matthewsanner)](https://holopin.io/@matthewsanner)
