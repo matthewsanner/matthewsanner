@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthew Sanner!
 
-- 🌴I am a bootcamped and self-taught freelance web developer, IT consultant, and cybersecurity specialist, currently attending Western Governors University for my bachelor's in software engineering. Reach out if you need help creating a website for your business, streamlining your workflow, or managing your cybersecurity. Check [my website](https://matthewsanner.com) for more information and my portfolio. I'm also seeking employment so please connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-sanner2/)!
+- 🌴I am a bootcamped and self-taught freelance web developer and IT consultant, currently attending Western Governors University for my bachelor's in software engineering. Reach out if you need help creating a website for your business, streamlining your workflow, or managing your cybersecurity. Check [my website](https://matthewsanner.com) for more information and my portfolio. I'm also seeking employment so please connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-sanner2/)!
 
 - 📝 Flashy- a flashcard Node.js web app with full CRUD, authentication, authorization, sessions, and security using MongoDB and Express.js. Try out [the app](https://flashy-vgut.onrender.com/) and check out [the code](https://github.com/matthewsanner/flashcard-app).
 
