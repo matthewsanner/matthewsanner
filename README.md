@@ -1,3 +1,5 @@
+## [**My Portfolio**](https://github.com/stars/matthewsanner/lists/portfolio)
+
 - 👋 While I've got your attention- navigate to my GitHub [Portfolio list](https://github.com/stars/matthewsanner/lists/portfolio) to see a representative collection of my best work! 
 
 - 🌴 I'm Matthew Sanner, a software developer with a focus on APIs, automation, and workflow streamlining. I'm proficient with many languages, libraries, frameworks, and databases, such as Javascript, Python, React, MongoDB, and Node.js. I'm available for limited freelance work so let me know if you need help with streamlining and automation, or if you need a new website! I'm also seeking employment so please connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-sanner2/)!
