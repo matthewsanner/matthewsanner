@@ -5,7 +5,7 @@
 - [flashcard-app](https://github.com/matthewsanner/flashcard-app): Flashy flashcard app, built with JS, Express, MongoDB
 - [bones-cms-react](https://github.com/matthewsanner/bones-cms-react): React frontend for blogging app
 - [bones-cms-backend](https://github.com/matthewsanner/bones-cms-backend): JS, Express backend for blogging app
-- [DSDCohortJuly2025](https://github.com/team-aaryan-and-yoon/DSDCohortJuly2025): Python/Django, TS/React group application for connecting customers with cleaning and maintenance providers, part of the Dallas Software Developers Cohort of July 2025
+- [DSDCohortJuly2025](https://github.com/team-aaryan-and-yoon/DSDCohortJuly2025): Python/Django, TS/React group project, application for connecting customers with cleaning and maintenance providers, part of the Dallas Software Developers Cohort of July 2025
 
 # About Me
 
