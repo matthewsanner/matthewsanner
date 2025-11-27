@@ -1,11 +1,10 @@
 # [**View My Portfolio**](https://github.com/stars/matthewsanner/lists/portfolio)
 
+- [inventory-scheduling-app](https://github.com/matthewsanner/inventory-scheduling-app): Python based inventory and inventory scheduling app
 - [hola-mexico-new](https://github.com/matthewsanner/hola-mexico-new): great example of my web development and design work with React
-- [inventory-scheduling-app](https://github.com/matthewsanner/inventory-scheduling-app): Python based inventory and inventory scheduling app, in development
-- [flashcard-app](https://github.com/matthewsanner/flashcard-app): Flashy flashcard app, built with JS, Express, MongoDB
-- [bones-cms-react](https://github.com/matthewsanner/bones-cms-react): React frontend for blogging app
-- [bones-cms-backend](https://github.com/matthewsanner/bones-cms-backend): JS, Express backend for blogging app
 - [DSDCohortJuly2025](https://github.com/team-aaryan-and-yoon/DSDCohortJuly2025): Python/Django, TS/React group project, application for connecting customers with cleaning and maintenance providers, part of the Dallas Software Developers Cohort of July 2025
+- [bones-cms](https://github.com/matthewsanner/bones-cms): JS/Express backend w/ Vite/React frontend blogging app
+- [flashcard-app](https://github.com/matthewsanner/flashcard-app): Flashy flashcard app, built with JS, Express, MongoDB
 
 # About Me
 
