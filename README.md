@@ -1,6 +1,6 @@
 # [**View My Portfolio**](https://github.com/stars/matthewsanner/lists/portfolio)
 
-Note that some of the live demos may take up to a minute to spin up fully so be patient
+Note that some of the live demos may take up to a minute to spin up fully so be patient.
 - InventoryFlow (Inventory Scheduling App)- Inventory and inventory scheduling app built with Python/Django, Javascript/React
   - [Repo](https://github.com/matthewsanner/inventory-scheduling-app)
   - [Live Demo](https://inventory-scheduling-app-frontend.onrender.com/items)
