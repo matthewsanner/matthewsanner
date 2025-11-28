@@ -1,10 +1,19 @@
 # [**View My Portfolio**](https://github.com/stars/matthewsanner/lists/portfolio)
 
-- [inventory-scheduling-app](https://github.com/matthewsanner/inventory-scheduling-app): Python based inventory and inventory scheduling app
-- [hola-mexico-new](https://github.com/matthewsanner/hola-mexico-new): great example of my web development and design work with React
-- [DSDCohortJuly2025](https://github.com/team-aaryan-and-yoon/DSDCohortJuly2025): Python/Django, TS/React group project, application for connecting customers with cleaning and maintenance providers, part of the Dallas Software Developers Cohort of July 2025
-- [bones-cms](https://github.com/matthewsanner/bones-cms): JS/Express backend w/ Vite/React frontend blogging app
-- [flashcard-app](https://github.com/matthewsanner/flashcard-app): Flashy flashcard app, built with JS, Express, MongoDB
+- InventoryFlow (Inventory Scheduling App)- Inventory and inventory scheduling app built with Python/Django, Javascript/React
+  [Repo](https://github.com/matthewsanner/inventory-scheduling-app)
+  [Live Demo](https://inventory-scheduling-app-frontend.onrender.com/items) Note: backend may take up to a minute so be patient at the beginning
+- Hola Mexico Hola- Great example of my web development and design work with React
+  [Repo](https://github.com/matthewsanner/hola-mexico-new)
+  [Live Site](https://holamexicohola.com/)
+- DSD Cohort- Application for connecting customers with cleaning and maintenance providers, built with Python/Django, TS/React, group project, part of the Dallas Software Developers Cohort of July 2025
+  [Repo](https://github.com/team-aaryan-and-yoon/DSDCohortJuly2025)
+- Bones CMS- Blogging app built with JS/Express backend, Vite/React frontend
+  [Repo](https://github.com/matthewsanner/bones-cms)
+  [Live Demo](https://bones-cms.onrender.com/)
+- Flashy- Flashcard app, built with JS, Express, MongoDB
+  [Repo](https://github.com/matthewsanner/flashcard-app)
+  [Live Demo](https://flashy-vgut.onrender.com/)
 
 # About Me
 
