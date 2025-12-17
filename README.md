@@ -1,10 +1,10 @@
 # [**View My Portfolio**](https://github.com/stars/matthewsanner/lists/portfolio)
 
 Note that some of the live demos may take up to a minute to spin up fully so be patient.
-- InventoryFlow (Inventory Scheduling App)- Inventory and inventory scheduling app built with Python/Django, Javascript/React
+- InventoryFlow- Inventory and inventory scheduling app built with Python/Django, Javascript/React
   - [Repo](https://github.com/matthewsanner/inventory-scheduling-app)
   - [Live Demo](https://inventory-scheduling-app-frontend.onrender.com/items)
-- DSD Cohort- Application for connecting customers with cleaning and maintenance providers, built with Python/Django, TS/React, group project, part of the Dallas Software Developers Cohort of July 2025
+- HandsOff- Application for connecting customers with cleaning and maintenance providers, built with Python/Django, TS/React, group project, part of the Dallas Software Developers Cohort of July 2025
   - [Repo](https://github.com/matthewsanner/DSDCohortJuly2025_Matthew)
 - Hola Mexico Hola- Great example of my web development and design work with React
   - [Repo](https://github.com/matthewsanner/hola-mexico-new)
