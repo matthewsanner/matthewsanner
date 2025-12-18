@@ -18,7 +18,7 @@ Note that some of the live demos may take up to a minute to spin up fully so be 
 
 # About Me
 
-👋 I'm a software developer with a focus on APIs, automation, and web development. I'm proficient with many languages, libraries, frameworks, and databases, such as Javascript, Python, React, MongoDB, and Node.js. I'm available for limited freelance work so let me know if you need help with streamlining and automation, or if you need a new website! I'm also seeking employment so please connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-sanner2/) or message me at [matthewsannerdev@gmail.com](mailto:matthewsannerdev@gmail.com).
+👋 I'm a software engineer with a focus on APIs, automation, and web development. I'm proficient with many languages, libraries, frameworks, and databases, such as Javascript, Python, React, MongoDB, and Node.js. I'm available for limited freelance work so let me know if you need help with streamlining and automation, or if you need a new website! I'm also seeking employment so please connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-sanner2/) or message me at [matthewsannerdev@gmail.com](mailto:matthewsannerdev@gmail.com).
 
 # Tech Stack
 
