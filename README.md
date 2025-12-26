@@ -3,7 +3,7 @@
 Note that some of the live demos may take up to a minute to spin up fully so be patient.
 - InventoryFlow- Inventory and inventory scheduling app built with Python/Django, Javascript/React
   - [Repo](https://github.com/matthewsanner/inventory-scheduling-app)
-  - [Live Demo](https://inventory-scheduling-app-frontend.onrender.com/items)
+  - [Live Demo](https://inventory-scheduling-app-frontend.onrender.com/)
 - HandsOff- Application connecting customers with cleaning and maintenance providers, built with Python/Django, TS/React, group project, part of the Dallas Software Developers Cohort of July 2025
   - [Repo](https://github.com/matthewsanner/DSDCohortJuly2025_Matthew)
   - [Live Demo](https://dsdcohortjuly2025-matthew-fe.onrender.com/)
